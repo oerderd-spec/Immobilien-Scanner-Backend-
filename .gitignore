@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Debug files
+debug/
+*.log
+
+# Environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Railway
+.railway/
